@@ -1,4 +1,4 @@
-## LIVE DEMO :- <a href="https://fetchadduser.ccbp.tech/"> ADD USER</a>
+## LIVE DEMO :- <a href="https://fetchadduser1.ccbp.tech/"> ADD USER</a>
 # add-user-dynamic-webapplication-17
 
 ### Refer to the below image.</br>
